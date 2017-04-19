@@ -1,4 +1,7 @@
-# test coverage for  [node-resque (v4.0.5)](http://github.com/taskrabbit/node-resque)  [![npm package](https://img.shields.io/npm/v/npmtest-node-resque.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-resque) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-resque.svg)](https://travis-ci.org/npmtest/node-npmtest-node-resque)
+# npmtest-node-resque
+
+#### test coverage for  [node-resque (v4.0.5)](http://github.com/taskrabbit/node-resque)  [![npm package](https://img.shields.io/npm/v/npmtest-node-resque.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-resque) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-resque.svg)](https://travis-ci.org/npmtest/node-npmtest-node-resque)
+
 #### an opinionated implementation of resque in node
 
 [![NPM](https://nodei.co/npm/node-resque.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-resque)
